@@ -1,0 +1,42 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Discord_AppleMusicRP.Properties" GeneratedClassName="UserConfig">
+  <Profiles />
+  <Settings>
+    <Setting Name="clientId" Type="System.String" Scope="User">
+      <Value Profile="(Default)">1084164353579827260</Value>
+    </Setting>
+    <Setting Name="detailsFormat" Type="System.String" Scope="User">
+      <Value Profile="(Default)">{title}</Value>
+    </Setting>
+    <Setting Name="stateFormat" Type="System.String" Scope="User">
+      <Value Profile="(Default)">by {artist}</Value>
+    </Setting>
+    <Setting Name="largeImageTextFormat" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Discord AppleMusicRP (by Kerfuzzle#2472)</Value>
+    </Setting>
+    <Setting Name="largeImageKey" Type="System.String" Scope="User">
+      <Value Profile="(Default)">apple_music_icon</Value>
+    </Setting>
+    <Setting Name="smallImageTextFormat" Type="System.String" Scope="User">
+      <Value Profile="(Default)">{status}</Value>
+    </Setting>
+    <Setting Name="smallImageKey" Type="System.String" Scope="User">
+      <Value Profile="(Default)">apple_music_icon</Value>
+    </Setting>
+    <Setting Name="playingImageKey" Type="System.String" Scope="User">
+      <Value Profile="(Default)">playing_icon</Value>
+    </Setting>
+    <Setting Name="pausedImageKey" Type="System.String" Scope="User">
+      <Value Profile="(Default)">paused_icon</Value>
+    </Setting>
+    <Setting Name="buttonLabelFormat" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Search on Apple Music</Value>
+    </Setting>
+    <Setting Name="useTrackTimestamps" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="useStatusSymbols" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
